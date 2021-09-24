@@ -1,1 +1,17 @@
-
+.intro{background-color:#D4D7FF;
+padding:110px
+text-align:center;
+font-size:25px;
+}
+.navbar{background-color:#1B145C;}
+.navbar ul {overflow:auto;
+}
+.navbar li {padding:20px;
+float:left;
+list-style:none;
+margin:10px 10px;
+}
+.navbar li a {color:white;
+padding:3px 3px;
+text-decoration:none;}
+.navbar li a :hover{color:#875CFF;}
